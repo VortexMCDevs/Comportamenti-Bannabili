@@ -40,4 +40,4 @@ La cancellazione di uno o più degli artefatti forensi sopra elencati è conside
 **SANZIONE:** `TODO`
 {% endhint %}
 
-> **Nota:** La presenza di software di pulizia automatica (es. CCleaner) non è una giustificazione. È responsabilità del player assicurarsi che tali programmi non vengano eseguiti durante le sessioni di gioco o immediatamente prima di un controllo, in quanto la loro azione equivale a una distruzione manuale delle prove.
+> **Nota:** La presenza di software di pulizia automatica (es. CCleaner) non è una giustificazione. È responsabilità del player assicurarsi che tali programmi non vengano eseguiti durante la sessione attuale (dall'avvio del pc), in quanto la loro azione equivale a una eliminazione manuale delle prove.
