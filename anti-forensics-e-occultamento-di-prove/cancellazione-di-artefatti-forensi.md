@@ -4,7 +4,7 @@ icon: trash-can
 
 # Cancellazione di Artefatti Forensi
 
-La cancellazione di artefatti è una delle azioni più gravi che un player possa compiere prima o durante uno screenshare. Questa pratica consiste nell'eliminare deliberatamente i file e i log che il sistema operativo Windows crea per registrare le attività, nel chiaro tentativo di nascondere le proprie tracce.
+La cancellazione di artefatti è una delle azioni più gravi che un player possa compiere prima di uno screenshare. Questa pratica consiste nell'eliminare deliberatamente i file e i log che il sistema operativo Windows crea per registrare le attività, nel chiaro tentativo di nascondere le proprie tracce.
 
 ***
 
