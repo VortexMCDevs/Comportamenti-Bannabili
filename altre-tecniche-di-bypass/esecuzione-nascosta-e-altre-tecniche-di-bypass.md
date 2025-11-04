@@ -4,7 +4,7 @@ icon: code-branch
 
 # Esecuzione Nascosta e Altre Tecniche di Bypass
 
-Questa sezione illustra **alcune** delle tecniche di bypass più sofisticate, che sfruttano funzionalità avanzate di Windows per eseguire codice in modo non convenzionale o "nascosto". A differenza della semplice cancellazione di file, questi metodi mirano a eludere i meccanismi di logging standard del sistema operativo, rendendo l'individuazione molto più complessa.
+Questa sezione illustra **alcune** delle tecniche di bypass più sofisticate rispetto alle altre trattate in questa guida, che sfruttano funzionalità avanzate di Windows per eseguire codice in modo non convenzionale o "nascosto". A differenza della semplice cancellazione di file, questi metodi mirano a eludere i meccanismi di logging standard del sistema operativo, rendendo l'individuazione molto più complessa.
 
 Quelli elencati di seguito sono solo alcuni esempi delle molteplici tipologie di bypass avanzati esistenti. Rilevare queste tecniche richiede un'analisi approfondita e la conoscenza di artefatti specifici. L'utilizzo di uno di questi metodi, o di qualsiasi altra tecnica analoga, è considerato un'infrazione gravissima, poiché dimostra un livello di premeditazione e conoscenza tecnica finalizzata a ingannare lo staff.
 
