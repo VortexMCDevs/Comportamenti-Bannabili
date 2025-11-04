@@ -64,5 +64,5 @@ L'utilizzo di queste tecniche per nascondere o rendere inaccessibili le prove è
 {% hint style="warning" %}
 **Nota sui Volumi Cifrati**
 
-Se durante un controllo viene scoperto un volume cifrato montato e il player si rifiuta di fornire la password per l'analisi, tale rifiuto è generalmente considerato equivalente a un'interruzione del controllo o a un'ammissione di occultamento di prove, e sanzionato di conseguenza.
+Se durante un controllo viene scoperto un volume cifrato montato e il player si rifiuta di fornire la password per l'analisi, tale rifiuto è generalmente considerato equivalente a un'interruzione del controllo, e sanzionato di conseguenza.
 {% endhint %}
