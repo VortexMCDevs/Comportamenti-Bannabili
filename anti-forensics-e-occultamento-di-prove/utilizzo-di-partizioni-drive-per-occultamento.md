@@ -22,7 +22,7 @@ Queste azioni sono considerate infrazioni perché rappresentano un tentativo del
 
 La semplice connessione di un drive FAT32/exFAT non è un'infrazione. Tuttavia, molti server competitivi considerano **sanzionabile l'esecuzione di qualsiasi file da un volume FAT32 o exFAT** durante la sessione di gioco.
 
-**Motivazione:** L'analisi forense su file system non-journaled è estremamente complessa e lunga. Poiché non esistono motivi pratici legittimi per eseguire file da tali volumi durante una sessione di gioco, questa regola serve a semplificare il lavoro dello staff e a disincentivare attivamente l'uso di questa nota tecnica di bypass.
+**Motivazione:** L'analisi forense su file system non-journaled è complessa e lunga. Poiché non esistono motivi pratici legittimi per eseguire file da tali volumi durante una sessione di gioco, questa regola serve a semplificare il lavoro dello staff e a disincentivare attivamente l'uso di questa nota tecnica di bypass.
 {% endhint %}
 
 * **Metodi di Rilevamento:**
