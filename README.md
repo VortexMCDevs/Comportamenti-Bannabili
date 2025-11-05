@@ -28,7 +28,7 @@ Le infrazioni sono state classificate in categorie logiche per facilitarne la co
 
 1. **Anti-Forensics e Occultamento di Prove:** Include tutte le azioni volte a distruggere, nascondere o manipolare le prove digitali che il sistema operativo registra naturalmente.
 2. **Comportamenti Ostili e Non Cooperativi:** Riguarda le azioni che ostacolano o impediscono attivamente lo svolgimento del controllo.
-3. **Utilizzo di Tecniche di Bypass Avanzate:** Copre i metodi più sofisticati che sfruttano le funzionalità di Windows per eseguire codice in modo nascosto, eludendo i meccanismi di logging standard.
+3. **Utilizzo di Tecniche di Bypass Medio-Avanzate:** Copre i metodi più sofisticati che sfruttano le funzionalità di Windows per eseguire codice in modo nascosto, eludendo i meccanismi di logging standard.
 
 Ogni infrazione descritta nelle pagine seguenti sarà accompagnata da una motivazione e da una sanzione consigliata, per promuovere decisioni coerenti e imparziali.
 
