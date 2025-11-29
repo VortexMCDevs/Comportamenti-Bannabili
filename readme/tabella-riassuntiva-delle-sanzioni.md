@@ -14,21 +14,21 @@ Le sanzioni elencate di seguito sono da considerarsi uno standard di riferimento
 
 | Infrazione                                        | Motivazione Ufficiale  | Durata Di VortexMC       |
 | ------------------------------------------------- | --------------------------------- | ------------------------ |
-| Ammissione                                        | `Ammissione`                      | `Da definire` |
-| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `Da definire` |
-| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `Da definirer` |
-| **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `Da definire` |
-| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `Da definire` |
-| **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `Da definire` |
-| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `Da definire` |
-| **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `Da definire` |
-| **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `Da definire` |
-| **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `Da definire` |
-| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `Da definire` |
-| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `Da definire` |
-| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `Da definire` |
-| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `Da definire` |
-| **Process Hollowing**                             | `Cheating SS`                     | `Da definire` |
+| Ammissione                                        | `Ammissione`                      | `14 days` |
+| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `30 days` |
+| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `30 days` |
+| **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `30 days` |
+| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `30 days` |
+| **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `30 days` |
+| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `30 days` |
+| **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `30 days` |
+| **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `30 days` |
+| **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `30 days` |
+| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `30 days` |
+| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `30 days` |
+| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `30 days` |
+| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `30 days` |
+| **Process Hollowing**                             | `Cheating SS`                     | `30 days` |
 
 ***
 
