@@ -71,7 +71,7 @@ La disabilitazione di uno o più dei servizi sopra elencati è considerata un te
 {% hint style="danger" %}
 **Motivazione Consigliata:** `Anti-Forensics / Ostruzione del Controllo`
 
-**SANZIONE:** `Da3`              &#x20;
+**SANZIONE:** `30 Days`              &#x20;
 {% endhint %}
 
 {% hint style="warning" %}
