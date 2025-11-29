@@ -14,7 +14,7 @@ Le sanzioni elencate di seguito sono da considerarsi uno standard di riferimento
 
 | Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata       |
 | ------------------------------------------------- | --------------------------------- | ------------------------ |
-| Ammissione                                        | `Ammissione`                      | `Da definire dal server` |
+| Ammissione                                        | `Ammissione`                      | `7 days (Durata di VortexMC)` |
 | **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `Da definire dal server` |
 | **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `Da definire dal server` |
 | **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `Da definire dal server` |
