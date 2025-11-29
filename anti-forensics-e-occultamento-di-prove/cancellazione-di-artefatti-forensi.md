@@ -44,7 +44,7 @@ La cancellazione di uno o più degli artefatti forensi sopra elencati è conside
 {% hint style="danger" %}
 **Motivazione Consigliata:** `Anti-Forensics / Distruzione di Prove`
 
-**SANZIONE:** `Da definire dal server`
+**SANZIONE:** `50 days`
 {% endhint %}
 
 {% hint style="warning" %}
